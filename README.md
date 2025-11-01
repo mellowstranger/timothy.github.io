@@ -9,7 +9,7 @@
   h1{font-size:2rem;margin:0 0 .5rem}
   nav a{margin-right:1rem}
 </style>
-<h1>♡ dein name</h1>
+<h1>timothy</h1>
 <p>Hier ist meine einzige feste Adresse.</p>
 <nav>
   <a href="/archive.html">Archive</a>
